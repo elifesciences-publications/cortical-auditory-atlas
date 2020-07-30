@@ -1,3 +1,8 @@
+This code is associated with the paper from Gulban et al., "Improving a probabilistic
+cytoarchitectonic atlas of auditory cortex
+using a novel method for inter-individual
+alignment". eLife, 2020. http://doi.org/10.7554/eLife.56963
+
 # Human cortical (cytoarchitectonic) auditory atlas
 Resources from our cortical auditory areas project that combines the gold-standard human histology images from [**JuBrain**](https://jubrain.fz-juelich.de) with state of the art in-vivo human magnetic resonance imaging (MRI) at ultra-high fields (7 Tesla). More specifically:
 
